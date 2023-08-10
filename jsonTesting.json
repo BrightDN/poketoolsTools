@@ -1,4 +1,6 @@
 [
+  {Access-Control-Allow-Origin: * }
+  
   {
     testing:"This",
     json:"file"
