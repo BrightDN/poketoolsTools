@@ -1,11 +1,11 @@
 [
   {
-  dexEntry:1,
-  name:[Bulbasaur, noSaur, Fuckme]
+  "dexEntry":1,
+  "name":[Bulbasaur, noSaur, Fuckme]
   },
 
 {
- dexEntry:2,
-  name:[Bulbanaur, noNaur, FuckmeHarder]
+ "dexEntry":2,
+  "name":[Bulbanaur, noNaur, FuckmeHarder]
 }
 ]
