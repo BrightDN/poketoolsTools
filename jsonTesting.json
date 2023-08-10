@@ -1,11 +1,11 @@
 [
   {
   "dexEntry":1,
-  "name":["Bulbasaur", "noSaur", "Fuckme"]
+  "name":["Bulbasaur", "noSaur"]
   },
 
 {
  "dexEntry":2,
-  "name":["Bulbanaur", "noNaur", "FuckmeHarder"]
+  "name":["Bulbanaur", "noNaur"]
 }
 ]
