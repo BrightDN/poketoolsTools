@@ -1,13 +1,11 @@
 [
   {
-    testing:"This",
-    json:"file"
+  dexEntry:1,
+  name:[Bulbasaur, noSaur, Fuckme]
   },
 
 {
-  other:"file",
-  could:"be",
-  this:"right",
-  over:"here"
+ dexEntry:2,
+  name:[Bulbanaur, noNaur, FuckmeHarder]
 }
 ]
